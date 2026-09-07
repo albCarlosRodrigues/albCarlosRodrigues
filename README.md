@@ -1,45 +1,53 @@
-## Oiii! Eu sou o Carlos Alberto
+<h1 align="center">Carlos Alberto</h1>
 
-<div>
-  <a href="https://github.com/albCarlosRodrigues">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albCarlosRodrigues&theme=dracula"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albCarlosRodrigues&theme=dracula"/>
-  </a>
-</div>
+<h3 align="center">Desenvolvedor Back-end Java</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Carlos-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Carlos-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alb-carlos-rodrigues2/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://albcarlosrodrigues.com/" target="_blank"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:alb.carlos.rodrigues2@gmail.com"><img src="https://img.shields.io/badge/GMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-##
+## Sobre mim
 
-<div>
-  <a href="https://albcarlosrodrigues.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end com Java e Spring Boot**.
 
-  <a href="mailto:alb.carlos.rodrigues2@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+Tenho desenvolvido projetos envolvendo **APIs REST, persistência de dados, inteligência artificial e automação**, buscando aplicar boas práticas de engenharia de software e escrever código cada vez mais organizado, testável e sustentável.
 
-  <a href="https://www.linkedin.com/in/alb-carlos-rodrigues2/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+Também possuo uma base em desenvolvimento Full Stack com **React, TypeScript, JavaScript e Node.js**, o que me permite compreender melhor o fluxo completo de uma aplicação e a integração entre front-end e back-end.
 
-<br>
+Atualmente, também contribuo com projetos **open source**, aprofundando meus conhecimentos em code review, debugging, testes automatizados, Git e colaboração em projetos de grande porte.
+
+## Foco técnico
+
+* **Back-end:** Java, Spring Boot, APIs REST e Spring AI
+* **Banco de dados:** MySQL e PostgreSQL
+* **Front-end:** React, TypeScript, JavaScript, HTML e CSS
+* **Ferramentas:** Git, GitHub, Gradle e VS Code
+* **Práticas:** testes automatizados, debugging, integração de APIs e versionamento
+* **Interesses:** arquitetura de software, inteligência artificial e open source
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,ts,react,nodejs,html,css,vite,git,github,vscode" alt="Tecnologias e ferramentas" />
+</p>
+
+## GitHub
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albCarlosRodrigues&theme=dracula" alt="Resumo do perfil GitHub" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albCarlosRodrigues&theme=dracula" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albCarlosRodrigues&theme=dracula" alt="Repositórios por linguagem" />
+</p>
+
+## Atividade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albCarlosRodrigues/albCarlosRodrigues/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albCarlosRodrigues/albCarlosRodrigues/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/albCarlosRodrigues/albCarlosRodrigues/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/albCarlosRodrigues/albCarlosRodrigues/output/github-contribution-grid-snake.svg">
 </picture>
