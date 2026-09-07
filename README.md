@@ -1,6 +1,6 @@
 <h1 align="center">Carlos Alberto</h1>
 
-<h3 align="center">Desenvolvedor Back-end Java</h3>
+<h3 align="center">Desenvolvedor FullStack Java</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alb-carlos-rodrigues2/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
