@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end com Java e Spring Boot**.
+Sou Graduado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end com Java e Spring Boot**.
 
 Tenho desenvolvido projetos envolvendo **APIs REST, persistência de dados, inteligência artificial e automação**, buscando aplicar boas práticas de engenharia de software e escrever código cada vez mais organizado, testável e sustentável.
 
